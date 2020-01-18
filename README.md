@@ -1,6 +1,9 @@
 # ImageLogic
 A Power App PCF control that displays an image based on specific condition.
 
+## Release
+Download the latest release from the [release tab](../../releases/latest)
+
 # Usage
 Display a red flag gif if the count of issues (rollup field is greater than 0), otherwise display a green tick.
 
